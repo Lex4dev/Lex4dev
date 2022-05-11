@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lex4dev
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Web3 technology
 - 🌱 I’m currently learning Blockchain, DAO and DeFi
 - 💞️ I’m looking to collaborate on Web3 projects
